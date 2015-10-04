@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (3.0.0-beta.3)
+  - FontAwesome.swift (0.6.0)
+
+DEPENDENCIES:
+  - Alamofire (= 3.0.0-beta.3)
+  - FontAwesome.swift (~> 0.6)
+
+SPEC CHECKSUMS:
+  Alamofire: c89149e58431f6f94527e8c01f920456afe39bd0
+  FontAwesome.swift: 4726ef163682da8750d88b4ba27ac4dbf46d4fdc
+
+COCOAPODS: 0.38.2
